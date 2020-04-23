@@ -1,4 +1,4 @@
-# viveohealthtask
+# viveo health task
 
 Simple task project for viveo health
 
